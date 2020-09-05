@@ -102,6 +102,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\AdventureWorks.DataLayer\AdventureWorks.DataLayer.vbproj">
+      <Project>{08380b08-b52f-4c48-8827-7e12cd719418}</Project>
+      <Name>AdventureWorks.DataLayer</Name>
+    </ProjectReference>
     <ProjectReference Include="..\AdventureWorks.EntityLayer\AdventureWorks.EntityLayer.vbproj">
       <Project>{44581c89-0dd9-4986-8a82-1da66ba09d37}</Project>
       <Name>AdventureWorks.EntityLayer</Name>

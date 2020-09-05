@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Customers>
+   <Customer>
+      <CustomerID>1</CustomerID>
+      <FirstName>Orlando</FirstName>
+      <LastName>Gee</LastName>
+      <CompanyName>A Bike Store</CompanyName>
+   </Customer>
+   <Customer>
+      <CustomerID>2</CustomerID>
+      <FirstName>Keith</FirstName>
+      <LastName>Harris</LastName>
+      <CompanyName>Progressive Sports</CompanyName>
+   </Customer>
+   <Customer>
+      <CustomerID>3</CustomerID>
+      <FirstName>Donna</FirstName>
+      <LastName>Carreras</LastName>
+      <CompanyName>Advanced Bike Components</CompanyName>
+   </Customer>
+   <Customer>
+      <CustomerID>4</CustomerID>
+      <FirstName>Janet</FirstName>
+      <LastName>Gates</LastName>
+      <CompanyName>Modular Cycle Systems</CompanyName>
+   </Customer>
+   <Customer>
+      <CustomerID>5</CustomerID>
+      <FirstName>Lucy</FirstName>
+      <LastName>Harrington</LastName>
+      <CompanyName>Metropolitan Sports Supply</CompanyName>
+   </Customer>
+   <Customer>
+      <CustomerID>6</CustomerID>
+      <FirstName>Rosmarie</FirstName>
+      <LastName>Carroll</LastName>
+      <CompanyName>Aerobic Exercise Company</CompanyName>
+   </Customer>
+   <Customer>
+      <CustomerID>7</CustomerID>
+      <FirstName>Dominic</FirstName>
+      <LastName>Gash</LastName>
+      <CompanyName>Associated Bikes</CompanyName>
+   </Customer>
+   <Customer>
+      <CustomerID>10</CustomerID>
+      <FirstName>Kathleen</FirstName>
+      <LastName>Garza</LastName>
+      <CompanyName>Rural Cycle Emporium</CompanyName>
+   </Customer>
+   <Customer>
+      <CustomerID>11</CustomerID>
+      <FirstName>Katherine</FirstName>
+      <LastName>Harding</LastName>
+      <CompanyName>Sharp Bikes</CompanyName>
+   </Customer>
+   <Customer>
+      <CustomerID>12</CustomerID>
+      <FirstName>Johnny</FirstName>
+      <LastName>Caprio</LastName>
+      <CompanyName>Bikes and Motorbikes</CompanyName>
+   </Customer>
+   <Customer>
+      <CustomerID>16</CustomerID>
+      <FirstName>Christopher</FirstName>
+      <LastName>Beck</LastName>
+      <Suffix>Jr.</Suffix>
+      <CompanyName>Bulk Discount Store</CompanyName>
+   </Customer>
+</Customers>

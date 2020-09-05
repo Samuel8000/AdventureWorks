@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+  <Product>
+    <ProductID>680</ProductID>
+    <Name>HL Road Frame - Black, 58</Name>
+    <ProductNumber>FR-R92B-58</ProductNumber>
+    <Color>Black</Color>
+    <StandardCost>1059.3100</StandardCost>
+    <ListPrice>1431.5000</ListPrice>
+    <Size>58</Size>
+    <Weight>1016.04</Weight>
+    <SellStartDate>1998-06-01T00:00:00</SellStartDate>
+    <SellEndDate>2021-12-31T00:00:00</SellEndDate>
+  </Product>
+  <Product>
+    <ProductID>706</ProductID>
+    <Name>HL Road Frame - Red, 58</Name>
+    <ProductNumber>FR-R92R-58</ProductNumber>
+    <Color>Red</Color>
+    <StandardCost>1059.3100</StandardCost>
+    <ListPrice>1431.5000</ListPrice>
+    <Size>58</Size>
+    <Weight>1016.04</Weight>
+    <SellStartDate>1998-06-01T00:00:00</SellStartDate>
+    <SellEndDate>2021-12-31T00:00:00</SellEndDate>
+  </Product>
+  <Product>
+    <ProductID>707</ProductID>
+    <Name>Sport-100 Helmet, Red</Name>
+    <ProductNumber>HL-U509-R</ProductNumber>
+    <Color>Red</Color>
+    <StandardCost>13.0863</StandardCost>
+    <ListPrice>34.9900</ListPrice>
+    <Size>L</Size>
+    <Weight>15.10</Weight>
+    <SellStartDate>2001-07-01T00:00:00</SellStartDate>
+    <SellEndDate>2021-12-31T00:00:00</SellEndDate>
+  </Product>
+  <Product>
+    <ProductID>708</ProductID>
+    <Name>Sport-100 Helmet, Black</Name>
+    <ProductNumber>HL-U509</ProductNumber>
+    <Color>Black</Color>
+    <StandardCost>13.0863</StandardCost>
+    <ListPrice>34.9900</ListPrice>
+    <Size>L</Size>
+    <Weight>15.10</Weight>
+    <SellStartDate>2001-07-01T00:00:00</SellStartDate>
+    <SellEndDate>2021-12-31T00:00:00</SellEndDate>
+  </Product>
+  <Product>
+    <ProductID>709</ProductID>
+    <Name>Mountain Bike Socks, M</Name>
+    <ProductNumber>SO-B909-M</ProductNumber>
+    <Color>White</Color>
+    <StandardCost>3.3963</StandardCost>
+    <ListPrice>9.5000</ListPrice>
+    <Size>M</Size>
+    <Weight>10</Weight>
+    <SellStartDate>2001-07-01T00:00:00</SellStartDate>
+    <SellEndDate>2002-06-30T00:00:00</SellEndDate>
+  </Product>
+  <Product>
+    <ProductID>710</ProductID>
+    <Name>Mountain Bike Socks, L</Name>
+    <ProductNumber>SO-B909-L</ProductNumber>
+    <Color>White</Color>
+    <StandardCost>3.3963</StandardCost>
+    <ListPrice>9.5000</ListPrice>
+    <Size>L</Size>
+    <Weight>10</Weight>
+    <SellStartDate>2001-07-01T00:00:00</SellStartDate>
+    <SellEndDate>2002-06-30T00:00:00</SellEndDate>
+  </Product>
+  <Product>
+    <ProductID>711</ProductID>
+    <Name>Sport-100 Helmet, Blue</Name>
+    <ProductNumber>HL-U509-B</ProductNumber>
+    <Color>Blue</Color>
+    <StandardCost>13.0863</StandardCost>
+    <ListPrice>34.9900</ListPrice>
+    <Size>M</Size>
+    <Weight>10</Weight>
+    <SellStartDate>2001-07-01T00:00:00</SellStartDate>
+    <SellEndDate>2021-12-31T00:00:00</SellEndDate>
+  </Product>
+  <Product>
+    <ProductID>712</ProductID>
+    <Name>AWC Logo Cap</Name>
+    <ProductNumber>CA-1098</ProductNumber>
+    <Color>Multi</Color>
+    <StandardCost>6.9223</StandardCost>
+    <ListPrice>8.9900</ListPrice>
+    <Size>L</Size>
+    <Weight>5.5</Weight>
+    <SellStartDate>2001-07-01T00:00:00</SellStartDate>
+    <SellEndDate>2021-12-31T00:00:00</SellEndDate>
+  </Product>
+  <Product>
+    <ProductID>713</ProductID>
+    <Name>Long-Sleeve Logo Jersey, S</Name>
+    <ProductNumber>LJ-0192-S</ProductNumber>
+    <Color>Multi</Color>
+    <StandardCost>38.4923</StandardCost>
+    <ListPrice>49.9900</ListPrice>
+    <Size>S</Size>
+    <Weight>3.5</Weight>
+    <SellStartDate>2001-07-01T00:00:00</SellStartDate>
+    <SellEndDate>2021-12-31T00:00:00</SellEndDate>
+  </Product>
+  <Product>
+    <ProductID>714</ProductID>
+    <Name>Long-Sleeve Logo Jersey, M</Name>
+    <ProductNumber>LJ-0192-M</ProductNumber>
+    <Color>Multi</Color>
+    <StandardCost>38.4923</StandardCost>
+    <ListPrice>49.9900</ListPrice>
+    <Size>M</Size>
+    <Weight>3.5</Weight>
+    <SellStartDate>2001-07-01T00:00:00</SellStartDate>
+    <SellEndDate>2021-12-31T00:00:00</SellEndDate>
+  </Product>
+</Products>

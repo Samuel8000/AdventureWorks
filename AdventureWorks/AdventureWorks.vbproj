@@ -74,6 +74,9 @@
     <Compile Include="ProductControls\ProductDetailControl.xaml.vb">
       <DependentUpon>ProductDetailControl.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ProductControls\ProductListControl.xaml.vb">
+      <DependentUpon>ProductListControl.xaml</DependentUpon>
+    </Compile>
     <Page Include="CustomerControls\CustomerDetailControl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -91,6 +94,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="ProductControls\ProductDetailControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ProductControls\ProductListControl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -158,6 +165,10 @@
       <Project>{7073fa08-7cef-4275-8141-b72c99c06f64}</Project>
       <Name>Common.Library</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Xml\Customers.xml" />
+    <Resource Include="Xml\Products.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
