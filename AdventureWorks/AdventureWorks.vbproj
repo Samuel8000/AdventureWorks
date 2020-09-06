@@ -71,6 +71,9 @@
     <Compile Include="CustomerControls\CustomerDetailControl.xaml.vb">
       <DependentUpon>CustomerDetailControl.xaml</DependentUpon>
     </Compile>
+    <Compile Include="CustomerControls\CustomerListControl.xaml.vb">
+      <DependentUpon>CustomerListControl.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ProductControls\ProductDetailControl.xaml.vb">
       <DependentUpon>ProductDetailControl.xaml</DependentUpon>
     </Compile>
@@ -78,6 +81,10 @@
       <DependentUpon>ProductListControl.xaml</DependentUpon>
     </Compile>
     <Page Include="CustomerControls\CustomerDetailControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CustomerControls\CustomerListControl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
