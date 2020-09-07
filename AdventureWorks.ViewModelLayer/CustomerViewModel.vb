@@ -7,7 +7,7 @@ Public Class CustomerViewModel
     Inherits ViewModelBase
 
     Sub New()
-        LoadCustomer(1)
+        LoadCustomers()
     End Sub
 
     Public Property Customers As ObservableCollection(Of Customer)
@@ -26,8 +26,12 @@ Public Class CustomerViewModel
     End Function
 
     Function LoadCustomer(ByVal customerId As Integer) As Customer
-        Entity = New Customer() With {.CustomerId = 1, .FirstName = "Bruce", .LastName = "Wayne", .CompanyName = "Wayne Enterprises"}
+        Return LoadCustomer(customerId, Nothing)
+    End Function
 
+    Function LoadCustomer(ByVal customerId As Integer, ByVal startingFilePath As String) As Customer
+        Dim mgr As New CustomerManager
+        Entity = mgr.LoadCustomer(customerId, startingFilePath)
         Return Entity
     End Function
 End Class

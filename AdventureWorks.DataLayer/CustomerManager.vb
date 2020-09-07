@@ -30,4 +30,23 @@ Public Class CustomerManager
         Return ret
     End Function
 
+    Function LoadCustomer(ByVal customerId As Integer) As Customer
+        Return LoadCustomer(customerId, Nothing)
+    End Function
+
+    Function LoadCustomer(ByVal customerId As Integer, ByVal startingFilePath As String) As Customer
+        Dim ret = New Customer()
+
+        Try
+            Dim list = LoadCustomers(startingFilePath)
+            If list IsNot Nothing Then
+                If list.Count > 0 Then
+                    ret = list.FirstOrDefault(Function(c) c.CustomerId = customerId)
+                End If
+            End If
+        Catch ex As Exception
+            Debug.WriteLine(ex.Message)
+        End Try
+        Return ret
+    End Function
 End Class
